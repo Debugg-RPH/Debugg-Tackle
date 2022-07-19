@@ -16,3 +16,12 @@ C:\Users\naim1\Desktop\DebuggTackle\obj\Debug\DebuggTackle.csproj.CoreCompileInp
 C:\Users\naim1\Desktop\DebuggTackle\obj\Debug\DebuggTackle.csproj.CopyComplete
 C:\Users\naim1\Desktop\DebuggTackle\obj\Debug\DebuggTackle.dll
 C:\Users\naim1\Desktop\DebuggTackle\obj\Debug\DebuggTackle.pdb
+C:\Users\Debugg\Desktop\git\Debugg-Tackle\DebuggTackle\bin\Debug\DebuggTackle.dll
+C:\Users\Debugg\Desktop\git\Debugg-Tackle\DebuggTackle\bin\Debug\DebuggTackle.pdb
+C:\Users\Debugg\Desktop\git\Debugg-Tackle\DebuggTackle\bin\Debug\RagePluginHook.dll
+C:\Users\Debugg\Desktop\git\Debugg-Tackle\DebuggTackle\bin\Debug\RagePluginHook.xml
+C:\Users\Debugg\Desktop\git\Debugg-Tackle\DebuggTackle\obj\Debug\DebuggTackle.csproj.AssemblyReference.cache
+C:\Users\Debugg\Desktop\git\Debugg-Tackle\DebuggTackle\obj\Debug\DebuggTackle.csproj.CoreCompileInputs.cache
+C:\Users\Debugg\Desktop\git\Debugg-Tackle\DebuggTackle\obj\Debug\DebuggTackle.csproj.CopyComplete
+C:\Users\Debugg\Desktop\git\Debugg-Tackle\DebuggTackle\obj\Debug\DebuggTackle.dll
+C:\Users\Debugg\Desktop\git\Debugg-Tackle\DebuggTackle\obj\Debug\DebuggTackle.pdb

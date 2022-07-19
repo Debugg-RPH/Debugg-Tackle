@@ -7,7 +7,7 @@ using Rage.Native;
 [assembly: Plugin("Debugg Tackle", Description = "Allows you to tackle peds | Made by Debugg#8770.", Author = "Debugg")]
 namespace DebuggTackle
 {
-    public class EntryPoint
+    public static class EntryPoint
     {
         //Simple + base
         private static bool TimerEnabled = false;
@@ -126,7 +126,8 @@ namespace DebuggTackle
             while (true)
             {
                 GameFiber.Yield();
-                
+                GameFiber.Wait(0);
+
                 if (Game.GetKeyboardState().IsShiftDown)
                 {
                     if (Game.IsKeyDown(tackleKey))
